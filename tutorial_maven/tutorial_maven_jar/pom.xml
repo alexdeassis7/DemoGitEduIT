@@ -8,14 +8,14 @@
 		<groupId>org.educacionit</groupId>
 		<version>1.0</version>
 	</parent>
-
+	
 	<groupId>org.educacionit</groupId>
 	<artifactId>tutorial_maven_jar</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0</version>
 
 	<name>tutorial_maven_jar</name>
-	<!-- FIXME change it to the project's website -->
+	<!--  se edita el archivo pom para corregir el bug 1552 , habia una dependencia transitiva generando conflictos -->
 	<url>http://www.example.com</url>
 
 	<properties>
